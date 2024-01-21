@@ -1,0 +1,8 @@
+
+# dependencies
+packages/
+
+# ide
+**/.vs/
+**/obj/
+**/bin/
